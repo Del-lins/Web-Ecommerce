@@ -1,0 +1,44 @@
+.footer-contente {
+  display: flex;
+  align-items: center;
+  color: #8f8f8f;
+  padding: 4rem 1rem;
+  gap: 2rem;
+}
+
+.download > * {
+  margin: 1rem 0;
+}
+
+.download > p:first-child {
+  font-weight: 600;
+  color: #fff;
+}
+
+.download .download-img {
+  display: flex;
+}
+
+.download .download-img img {
+  width: 180px;
+}
+
+.logo-footer {
+  text-align: center;
+}
+
+.links-footer h3 {
+  color: #fff;
+  margin-bottom: 0.8rem;
+}
+
+.links-footer ul li {
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+
+.copyright {
+  color: #fff;
+  text-align: center;
+  padding: 2rem 0;
+}
