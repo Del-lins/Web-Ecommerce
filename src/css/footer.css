@@ -35,6 +35,17 @@
 .links-footer ul li {
   margin-bottom: 0.5rem;
   cursor: pointer;
+  transition: 0.5s;
+}
+
+.links-footer ul li i {
+  color: #ebef05;
+  font-size: 1.3rem;
+  transition: 0.5s;
+}
+
+.links-footer ul li:hover {
+  transform: translate(5px);
 }
 
 .copyright {
